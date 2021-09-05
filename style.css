@@ -88,20 +88,37 @@ html,body{
     max-width:400px ;
     min-height:200px ;
     background-color: rgb(66, 13, 34);
-    box-shadow: 0 0 10px white;
+    box-shadow: 0 0 20px black;
     border-radius: 6px;
     padding: 20px;
     text-align: end;
     color: white;
+    margin: 15px;
 }
 
 .confilict{
     max-width:400px ;
     min-height:200px ;
     background-color: rgb(173, 50, 100);
-    box-shadow: 0 0 10px white;
+    box-shadow: 0 0 20px black;
     border-radius: 6px;
     padding: 20px;
     text-align: end;
     color: white;
+    margin: 15px;
+}
+
+.gitignore{
+    max-width:400px ;
+    min-height:200px ;
+    background-color: rgb(50, 173, 70);
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+    
 }
