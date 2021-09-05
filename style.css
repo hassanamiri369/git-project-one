@@ -83,3 +83,25 @@ html,body{
     font-size: 18px;
     line-height: 30px;
 }
+
+.new-branch{
+    max-width:400px ;
+    min-height:200px ;
+    background-color: rgb(66, 13, 34);
+    box-shadow: 0 0 10px white;
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+}
+
+.confilict{
+    max-width:400px ;
+    min-height:200px ;
+    background-color: rgb(173, 50, 100);
+    box-shadow: 0 0 10px white;
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+}
