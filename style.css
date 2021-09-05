@@ -22,3 +22,44 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.hard-soft-reste-commit-code{
+    width: 100%;
+    min-height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.soft-commit{
+    max-width:400px ;
+    min-height:200px ;
+    background-color: rgb(151, 151, 19);
+    box-shadow: 0 0 10px black;
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+
+}
+
+.soft-commit p{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.hard-commit{
+    max-width:400px ;
+    min-height:200px ;
+    background-color: rgb(15, 6, 66);
+    box-shadow: 0 0 10px black;
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+
+}
+
+.hard-commit p{
+    font-size: 18px;
+    line-height: 30px;
+}
