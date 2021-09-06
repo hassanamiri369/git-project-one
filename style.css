@@ -185,3 +185,29 @@ html,body{
   line-height: 30px;
   font-size: 18px;
 }
+.pull-request-in-repository-into-github{
+    max-width:400px ;
+    min-height:400px ;
+    background-color: darkgoldenrod;
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+}
+.fuork{
+    max-width:400px ;
+    min-height:400px ;
+    background-color: rgb(3, 61, 8);
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+}
