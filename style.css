@@ -59,6 +59,7 @@ html,body{
     border-radius: 6px;
     padding: 20px;
     text-align: end;
+    margin: 15px;
 
 }
 
@@ -76,6 +77,7 @@ html,body{
     padding: 20px;
     text-align: end;
     color: white;
+    margin: 15px;
 
 }
 
@@ -84,6 +86,11 @@ html,body{
     line-height: 30px;
 }
 
+/* همه ی دیو ها داخل این کلاس قرار داره */
+.all-div-main{
+    display: flex;
+    flex-wrap: wrap;
+}
 .new-branch{
     max-width:400px ;
     min-height:200px ;
@@ -121,4 +128,60 @@ html,body{
   line-height: 30px;
   font-size: 18px;
     
+}
+.push-project-to-github{
+    max-width:700px ;
+    min-height:200px ;
+    background-color: darkmagenta;
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+
+.contect-to-onther-porject{
+    max-width:600px ;
+    min-height:200px ;
+    background-color: rgb(57, 76, 110);
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.clone-repository{
+    max-width:400px ;
+    height:400px ;
+    background-color: darkred;
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.fethc-changes-in-repo{
+    max-width:400px ;
+    height:400px ;
+    background-color: darkblue;
+    box-shadow: 0 0 10px rgb(19, 16, 16);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+  line-height: 30px;
+  font-size: 18px;
 }
